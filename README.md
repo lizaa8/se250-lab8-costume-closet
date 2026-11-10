@@ -27,4 +27,4 @@ The screenshots folder contains two pictures:
 - `costume_closet.sql` - Contains the database
 
 ## Author
-Elizabeth Homich
+Liza Homich
